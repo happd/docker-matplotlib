@@ -2,6 +2,12 @@
 
 matplotlib in docker with numpy, scipy etc.
 
+## Building
+
+```
+docker build -t hpp/matplotlib .
+```
+
 ## Alias for .bashrc
 
 ```
